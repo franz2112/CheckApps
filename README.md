@@ -1,2 +1,2 @@
-# CA-LandingPage
+# CheckApp Front Page
 CheckApp Landing Page only
