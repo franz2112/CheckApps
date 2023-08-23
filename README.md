@@ -1,3 +1,3 @@
 # CheckApp Front Page
 
-#CheckApp Landing Page only
+CheckApp Landing Page only
